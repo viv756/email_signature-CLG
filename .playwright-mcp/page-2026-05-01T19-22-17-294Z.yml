@@ -1,0 +1,84 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img "CLG Logo" [ref=e4]
+    - generic [ref=e5]:
+      - heading "CLG Middle East Contracting L.L.C 3 Variations" [level=1] [ref=e6]:
+        - text: CLG Middle East Contracting L.L.C
+        - generic [ref=e7]: 3 Variations
+      - paragraph [ref=e8]: Select a tab · click inside the white box · Select All (Ctrl+A / ⌘A) · Copy · Paste into Gmail
+  - generic [ref=e10]:
+    - button "01 Executive Classic" [ref=e11] [cursor=pointer]
+    - button "02 Corporate Bold" [active] [ref=e12] [cursor=pointer]
+    - button "03 Minimal Prestige" [ref=e13] [cursor=pointer]
+  - generic [ref=e89]:
+    - paragraph [ref=e90]:
+      - text: Click inside the white box, press
+      - strong [ref=e91]: Ctrl+A / ⌘A
+      - text: to select all, then
+      - strong [ref=e92]: Copy & Paste
+      - text: into Gmail → Settings → Signature
+    - table [ref=e94]:
+      - rowgroup [ref=e95]:
+        - row "Ahmed Al Mansouri Project Director CLG" [ref=e96]:
+          - cell "Ahmed Al Mansouri Project Director CLG" [ref=e97]:
+            - table [ref=e98]:
+              - rowgroup [ref=e99]:
+                - row "Ahmed Al Mansouri Project Director CLG" [ref=e100]:
+                  - cell "Ahmed Al Mansouri Project Director" [ref=e101]:
+                    - generic [ref=e102]: Ahmed Al Mansouri
+                    - generic [ref=e103]: Project Director
+                  - cell "CLG" [ref=e104]:
+                    - img "CLG" [ref=e106]
+        - 'row "CLG MIDDLE EAST CONTRACTING L.L.C | سي ال جي ميدل ايست للمقاولات Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box 3585 CERTIFIED: ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e107]':
+          - 'cell "CLG MIDDLE EAST CONTRACTING L.L.C | سي ال جي ميدل ايست للمقاولات Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box 3585 CERTIFIED: ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e108]':
+            - table [ref=e109]:
+              - rowgroup [ref=e110]:
+                - row "CLG MIDDLE EAST CONTRACTING L.L.C | سي ال جي ميدل ايست للمقاولات" [ref=e111]:
+                  - cell "CLG MIDDLE EAST CONTRACTING L.L.C | سي ال جي ميدل ايست للمقاولات" [ref=e112]
+                - row [ref=e113]:
+                  - cell [ref=e114]
+                - row "Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com" [ref=e115]:
+                  - cell "Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com" [ref=e116]:
+                    - table [ref=e117]:
+                      - rowgroup [ref=e118]:
+                        - row "Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com" [ref=e119]:
+                          - cell "Direct +971 2 626 3789 +971 56 544 2256" [ref=e120]:
+                            - generic [ref=e121]: Direct
+                            - generic [ref=e122]: +971 2 626 3789
+                            - generic [ref=e123]: +971 56 544 2256
+                          - cell "Email & Web info@clgme.com www.clgme.com" [ref=e124]:
+                            - generic [ref=e125]: Email & Web
+                            - link "info@clgme.com" [ref=e127] [cursor=pointer]:
+                              - /url: mailto:info@clgme.com
+                            - link "www.clgme.com" [ref=e129] [cursor=pointer]:
+                              - /url: http://www.clgme.com
+                - row [ref=e130]:
+                  - cell [ref=e131]
+                - row "Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box 3585" [ref=e132]:
+                  - cell "Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box 3585" [ref=e133]
+                - row [ref=e134]:
+                  - cell [ref=e135]
+                - 'row "CERTIFIED: ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e136]':
+                  - 'cell "CERTIFIED: ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e137]':
+                    - table [ref=e138]:
+                      - rowgroup [ref=e139]:
+                        - 'row "CERTIFIED: ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e140]':
+                          - cell "CERTIFIED:" [ref=e141]
+                          - cell "ISO 9001" [ref=e142]:
+                            - img "ISO 9001" [ref=e143]
+                          - cell "ISO 14001" [ref=e144]:
+                            - img "ISO 14001" [ref=e145]
+                          - cell "ISO 45001" [ref=e146]:
+                            - img "ISO 45001" [ref=e147]
+                          - cell "FCIA" [ref=e148]:
+                            - generic [ref=e149]: FCIA
+                          - cell "ICV" [ref=e150]:
+                            - generic [ref=e151]: ICV
+        - row "Proud of UAE" [ref=e152]:
+          - cell "Proud of UAE" [ref=e153]:
+            - img "Proud of UAE" [ref=e154]
+    - generic [ref=e155]:
+      - generic [ref=e156]: Corporate Bold
+      - generic [ref=e157]: Bold
+      - generic [ref=e158]: Structured
+      - generic [ref=e159]: Clean

@@ -1,0 +1,111 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img "CLG Logo" [ref=e4]
+    - generic [ref=e5]:
+      - heading "CLG Middle East Contracting L.L.C 3 Variations" [level=1] [ref=e6]:
+        - text: CLG Middle East Contracting L.L.C
+        - generic [ref=e7]: 3 Variations
+      - paragraph [ref=e8]: Select a tab · click inside the white box · Select All (Ctrl+A / ⌘A) · Copy · Paste into Gmail
+  - generic [ref=e10]:
+    - button "01 Executive Classic" [ref=e11] [cursor=pointer]
+    - button "02 Corporate Bold" [active] [ref=e12] [cursor=pointer]
+    - button "03 Minimal Prestige" [ref=e13] [cursor=pointer]
+  - generic [ref=e89]:
+    - paragraph [ref=e90]:
+      - text: Click inside the white box, press
+      - strong [ref=e91]: Ctrl+A / ⌘A
+      - text: to select all, then
+      - strong [ref=e92]: Copy & Paste
+      - text: into Gmail → Settings → Signature
+    - table [ref=e94]:
+      - rowgroup [ref=e95]:
+        - row "Ahmed Al Mansouri Project Director CLG Middle East" [ref=e96]:
+          - cell "Ahmed Al Mansouri Project Director CLG Middle East" [ref=e97]:
+            - table [ref=e98]:
+              - rowgroup [ref=e99]:
+                - row "Ahmed Al Mansouri Project Director CLG Middle East" [ref=e100]:
+                  - cell "Ahmed Al Mansouri Project Director" [ref=e101]:
+                    - generic [ref=e102]: Ahmed Al Mansouri
+                    - generic [ref=e103]: Project Director
+                  - cell "CLG Middle East" [ref=e104]:
+                    - img "CLG Middle East" [ref=e105]
+        - 'row "CLG MIDDLE EAST CONTRACTING L.L.C سي ال جي ميدل ايست للمقاولات Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com HQ : Mussafah – M42, Abu Dhabi, U.A.E Branches : Dubai, Sharjah & RAK APPROVALS UL ADCDA Dubai Civil Defense Sharjah Civil Defense TAQA ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e106]':
+          - 'cell "CLG MIDDLE EAST CONTRACTING L.L.C سي ال جي ميدل ايست للمقاولات Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com HQ : Mussafah – M42, Abu Dhabi, U.A.E Branches : Dubai, Sharjah & RAK APPROVALS UL ADCDA Dubai Civil Defense Sharjah Civil Defense TAQA ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e107]':
+            - table [ref=e108]:
+              - rowgroup [ref=e109]:
+                - row "CLG MIDDLE EAST CONTRACTING L.L.C سي ال جي ميدل ايست للمقاولات" [ref=e110]:
+                  - cell "CLG MIDDLE EAST CONTRACTING L.L.C سي ال جي ميدل ايست للمقاولات" [ref=e111]:
+                    - table [ref=e112]:
+                      - rowgroup [ref=e113]:
+                        - row "CLG MIDDLE EAST CONTRACTING L.L.C سي ال جي ميدل ايست للمقاولات" [ref=e114]:
+                          - cell "CLG MIDDLE EAST CONTRACTING L.L.C" [ref=e115]
+                          - cell "سي ال جي ميدل ايست للمقاولات" [ref=e116]
+                - row [ref=e117]:
+                  - cell [ref=e118]
+                - row "Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com" [ref=e119]:
+                  - cell "Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com" [ref=e120]:
+                    - table [ref=e121]:
+                      - rowgroup [ref=e122]:
+                        - row "Direct +971 2 626 3789 +971 56 544 2256 Email & Web info@clgme.com www.clgme.com" [ref=e123]:
+                          - cell "Direct +971 2 626 3789 +971 56 544 2256" [ref=e124]:
+                            - generic [ref=e125]: Direct
+                            - generic [ref=e126]: +971 2 626 3789
+                            - generic [ref=e127]: +971 56 544 2256
+                          - cell "Email & Web info@clgme.com www.clgme.com" [ref=e128]:
+                            - generic [ref=e129]: Email & Web
+                            - link "info@clgme.com" [ref=e131] [cursor=pointer]:
+                              - /url: mailto:info@clgme.com
+                            - link "www.clgme.com" [ref=e133] [cursor=pointer]:
+                              - /url: http://www.clgme.com
+                - row [ref=e134]:
+                  - cell [ref=e135]
+                - 'row "HQ : Mussafah – M42, Abu Dhabi, U.A.E Branches : Dubai, Sharjah & RAK" [ref=e136]':
+                  - 'cell "HQ : Mussafah – M42, Abu Dhabi, U.A.E Branches : Dubai, Sharjah & RAK" [ref=e137]':
+                    - text: "HQ : Mussafah – M42, Abu Dhabi, U.A.E"
+                    - text: "Branches : Dubai, Sharjah & RAK"
+                - row [ref=e138]:
+                  - cell [ref=e139]
+                - row "APPROVALS UL ADCDA Dubai Civil Defense Sharjah Civil Defense" [ref=e140]:
+                  - cell "APPROVALS UL ADCDA Dubai Civil Defense Sharjah Civil Defense" [ref=e141]:
+                    - table [ref=e142]:
+                      - rowgroup [ref=e143]:
+                        - row "APPROVALS" [ref=e144]:
+                          - cell "APPROVALS" [ref=e145]
+                        - row "UL ADCDA Dubai Civil Defense Sharjah Civil Defense" [ref=e146]:
+                          - cell "UL ADCDA Dubai Civil Defense Sharjah Civil Defense" [ref=e147]:
+                            - table [ref=e148]:
+                              - rowgroup [ref=e149]:
+                                - row "UL ADCDA Dubai Civil Defense Sharjah Civil Defense" [ref=e150]:
+                                  - cell "UL" [ref=e151]:
+                                    - img "UL" [ref=e152]
+                                  - cell "ADCDA" [ref=e153]:
+                                    - img "ADCDA" [ref=e154]
+                                  - cell "Dubai Civil Defense" [ref=e155]:
+                                    - img "Dubai Civil Defense" [ref=e156]
+                                  - cell "Sharjah Civil Defense" [ref=e157]:
+                                    - img "Sharjah Civil Defense" [ref=e158]
+                - row "TAQA ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e159]:
+                  - cell "TAQA ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e160]:
+                    - table [ref=e161]:
+                      - rowgroup [ref=e162]:
+                        - row "TAQA ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e163]:
+                          - cell "TAQA" [ref=e164]:
+                            - img "TAQA" [ref=e165]
+                          - cell "ISO 9001" [ref=e166]:
+                            - img "ISO 9001" [ref=e167]
+                          - cell "ISO 14001" [ref=e168]:
+                            - img "ISO 14001" [ref=e169]
+                          - cell "ISO 45001" [ref=e170]:
+                            - img "ISO 45001" [ref=e171]
+                          - cell "FCIA" [ref=e172]:
+                            - img "FCIA" [ref=e173]
+                          - cell "ICV" [ref=e174]:
+                            - img "ICV" [ref=e175]
+        - row "Proud of UAE" [ref=e176]:
+          - cell "Proud of UAE" [ref=e177]:
+            - img "Proud of UAE" [ref=e178]
+    - generic [ref=e179]:
+      - generic [ref=e180]: Corporate Bold
+      - generic [ref=e181]: Bold
+      - generic [ref=e182]: Structured
+      - generic [ref=e183]: Clean

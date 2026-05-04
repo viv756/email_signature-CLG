@@ -1,0 +1,143 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img [ref=e4]:
+      - generic [ref=e7]: G
+    - generic [ref=e8]:
+      - heading "CLG Middle East Contracting L.L.C 3 Variations" [level=1] [ref=e9]:
+        - text: CLG Middle East Contracting L.L.C
+        - generic [ref=e10]: 3 Variations
+      - paragraph [ref=e11]: Email Signature Generator · Choose a design → Copy → Paste into Gmail Settings
+  - generic [ref=e13]:
+    - button "01 Executive Classic" [ref=e14] [cursor=pointer]
+    - button "02 Corporate Bold" [ref=e15] [cursor=pointer]
+    - button "03 Minimal Prestige" [ref=e16] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e21]: Live Preview
+      - table [ref=e24]:
+        - rowgroup [ref=e25]:
+          - row "CLG MIDDLE EAST Ahmed Al Mansouri Project Director CLG MIDDLE EAST CONTRACTING L.L.C T +971 2 626 3789 M +971 56 544 2256 E info@clgme.com W www.clgme.com Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e26]:
+            - cell [ref=e27]
+            - cell [ref=e28]
+            - cell "CLG MIDDLE EAST" [ref=e29]:
+              - table [ref=e30]:
+                - rowgroup [ref=e31]:
+                  - row [ref=e32]:
+                    - cell [ref=e33]:
+                      - img [ref=e34]:
+                        - generic [ref=e37]: G
+                  - row [ref=e38]:
+                    - cell [ref=e39]
+                  - row "CLG MIDDLE EAST" [ref=e40]:
+                    - cell "CLG MIDDLE EAST" [ref=e41]:
+                      - text: CLG
+                      - text: MIDDLE EAST
+            - cell [ref=e42]
+            - cell "Ahmed Al Mansouri Project Director CLG MIDDLE EAST CONTRACTING L.L.C T +971 2 626 3789 M +971 56 544 2256 E info@clgme.com W www.clgme.com Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e44]:
+              - table [ref=e45]:
+                - rowgroup [ref=e46]:
+                  - row "Ahmed Al Mansouri" [ref=e47]:
+                    - cell "Ahmed Al Mansouri" [ref=e48]
+                  - row "Project Director" [ref=e49]:
+                    - cell "Project Director" [ref=e50]
+                  - row "CLG MIDDLE EAST CONTRACTING L.L.C" [ref=e51]:
+                    - cell "CLG MIDDLE EAST CONTRACTING L.L.C" [ref=e52]
+                  - row [ref=e53]:
+                    - cell [ref=e54]:
+                      - table [ref=e55]:
+                        - rowgroup [ref=e56]:
+                          - row [ref=e57]:
+                            - cell [ref=e58]
+                  - row "T +971 2 626 3789 M +971 56 544 2256" [ref=e59]:
+                    - cell "T +971 2 626 3789 M +971 56 544 2256" [ref=e60]:
+                      - table [ref=e61]:
+                        - rowgroup [ref=e62]:
+                          - row "T +971 2 626 3789 M +971 56 544 2256" [ref=e63]:
+                            - cell "T +971 2 626 3789" [ref=e64]
+                            - cell "M +971 56 544 2256" [ref=e65]
+                  - row [ref=e66]:
+                    - cell [ref=e67]
+                  - row "E info@clgme.com W www.clgme.com" [ref=e68]:
+                    - cell "E info@clgme.com W www.clgme.com" [ref=e69]:
+                      - table [ref=e70]:
+                        - rowgroup [ref=e71]:
+                          - row "E info@clgme.com W www.clgme.com" [ref=e72]:
+                            - cell "E info@clgme.com" [ref=e73]:
+                              - text: E
+                              - link "info@clgme.com" [ref=e74] [cursor=pointer]:
+                                - /url: mailto:info@clgme.com
+                            - cell "W www.clgme.com" [ref=e75]:
+                              - text: W
+                              - link "www.clgme.com" [ref=e76] [cursor=pointer]:
+                                - /url: http://www.clgme.com
+                  - row [ref=e77]:
+                    - cell [ref=e78]
+                  - row "Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e79]:
+                    - cell "Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e80]
+          - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified PROUD OF UAE" [ref=e81]:
+            - cell "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified PROUD OF UAE" [ref=e82]:
+              - table [ref=e83]:
+                - rowgroup [ref=e84]:
+                  - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified PROUD OF UAE" [ref=e85]:
+                    - cell "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified" [ref=e86]:
+                      - table [ref=e87]:
+                        - rowgroup [ref=e88]:
+                          - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified" [ref=e89]:
+                            - cell "ISO 9001" [ref=e90]:
+                              - generic [ref=e91]: ISO 9001
+                            - cell "ISO 14001" [ref=e92]:
+                              - generic [ref=e93]: ISO 14001
+                            - cell "ISO 45001" [ref=e94]:
+                              - generic [ref=e95]: ISO 45001
+                            - cell "FCIA" [ref=e96]:
+                              - generic [ref=e97]: FCIA
+                            - cell "ICV Certified" [ref=e98]:
+                              - generic [ref=e99]: ICV Certified
+                    - cell [ref=e100]
+                    - cell "PROUD OF UAE" [ref=e101]:
+                      - table [ref=e102]:
+                        - rowgroup [ref=e103]:
+                          - row "PROUD OF UAE" [ref=e104]:
+                            - cell [ref=e105]:
+                              - img [ref=e106]
+                            - cell "PROUD OF UAE" [ref=e111]
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - heading "Executive Classic" [level=3] [ref=e114]
+        - generic [ref=e115]:
+          - generic [ref=e116]: Corporate
+          - generic [ref=e117]: Trusted
+          - generic [ref=e118]: Clean
+        - paragraph [ref=e119]: Left red accent bar, logo mark, clean typographic hierarchy. Ideal for senior executives, project directors, and C-suite contacts.
+      - generic [ref=e120]:
+        - heading "Copy this signature" [level=3] [ref=e121]
+        - paragraph [ref=e122]: Copies rich HTML — paste directly into Gmail Signature editor.
+        - button "Copy Signature HTML" [ref=e123] [cursor=pointer]:
+          - img [ref=e124]
+          - text: Copy Signature HTML
+      - generic [ref=e127]:
+        - heading "Gmail Setup" [level=3] [ref=e128]
+        - generic [ref=e129]:
+          - generic [ref=e130]: "1"
+          - paragraph [ref=e131]:
+            - text: Open
+            - strong [ref=e132]: Gmail → Settings → See all settings → Signature
+        - generic [ref=e133]:
+          - generic [ref=e134]: "2"
+          - paragraph [ref=e135]:
+            - text: Click
+            - strong [ref=e136]: Create new
+            - text: ", name it, click into the editor box"
+        - generic [ref=e137]:
+          - generic [ref=e138]: "3"
+          - paragraph [ref=e139]:
+            - text: Press
+            - strong [ref=e140]: Ctrl+V / ⌘V
+            - text: — signature renders immediately
+        - generic [ref=e141]:
+          - generic [ref=e142]: "4"
+          - paragraph [ref=e143]:
+            - text: Edit
+            - strong [ref=e144]: Name & Title
+            - text: directly in Gmail
+  - generic: Signature copied to clipboard!

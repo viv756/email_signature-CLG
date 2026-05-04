@@ -1,0 +1,95 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img "CLG Logo" [ref=e4]
+    - generic [ref=e5]:
+      - heading "CLG Middle East Contracting L.L.C 3 Variations" [level=1] [ref=e6]:
+        - text: CLG Middle East Contracting L.L.C
+        - generic [ref=e7]: 3 Variations
+      - paragraph [ref=e8]: Select a tab · click inside the white box · Select All (Ctrl+A / ⌘A) · Copy · Paste into Gmail
+  - generic [ref=e10]:
+    - button "01 Executive Classic" [ref=e11] [cursor=pointer]
+    - button "02 Corporate Bold" [ref=e12] [cursor=pointer]
+    - button "03 Minimal Prestige" [active] [ref=e13] [cursor=pointer]
+  - generic [ref=e89]:
+    - paragraph [ref=e90]:
+      - text: Click inside the white box, press
+      - strong [ref=e91]: Ctrl+A / ⌘A
+      - text: to select all, then
+      - strong [ref=e92]: Copy & Paste
+      - text: into Gmail → Settings → Signature
+    - table [ref=e94]:
+      - rowgroup [ref=e95]:
+        - row "CLG CLG MIDDLE EAST CONTRACTING L.L.C Ahmed Al Mansouri Project Director T +971 2 626 3789 | +971 56 544 2256 E info@clgme.com W www.clgme.com A Mussafah – M42, Abu Dhabi, U.A.E P.O. Box – 3585 ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e96]:
+          - cell "CLG CLG MIDDLE EAST CONTRACTING L.L.C" [ref=e97]:
+            - img "CLG" [ref=e98]
+            - generic [ref=e100]:
+              - text: CLG
+              - text: MIDDLE EAST
+            - generic [ref=e101]: CONTRACTING L.L.C
+          - cell [ref=e102]
+          - cell "Ahmed Al Mansouri Project Director T +971 2 626 3789 | +971 56 544 2256 E info@clgme.com W www.clgme.com A Mussafah – M42, Abu Dhabi, U.A.E P.O. Box – 3585 ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e103]:
+            - table [ref=e104]:
+              - rowgroup [ref=e105]:
+                - row "Ahmed Al Mansouri Project Director" [ref=e106]:
+                  - cell "Ahmed Al Mansouri Project Director" [ref=e107]:
+                    - generic [ref=e108]: Ahmed Al Mansouri
+                    - generic [ref=e109]: Project Director
+                - row [ref=e110]:
+                  - cell [ref=e111]
+                - row "T +971 2 626 3789 | +971 56 544 2256" [ref=e113]:
+                  - cell "T +971 2 626 3789 | +971 56 544 2256" [ref=e114]:
+                    - table [ref=e115]:
+                      - rowgroup [ref=e116]:
+                        - row "T +971 2 626 3789 | +971 56 544 2256" [ref=e117]:
+                          - cell "T" [ref=e118]
+                          - cell "+971 2 626 3789 | +971 56 544 2256" [ref=e119]
+                - row "E info@clgme.com" [ref=e120]:
+                  - cell "E info@clgme.com" [ref=e121]:
+                    - table [ref=e122]:
+                      - rowgroup [ref=e123]:
+                        - row "E info@clgme.com" [ref=e124]:
+                          - cell "E" [ref=e125]
+                          - cell "info@clgme.com" [ref=e126]:
+                            - link "info@clgme.com" [ref=e127] [cursor=pointer]:
+                              - /url: mailto:info@clgme.com
+                - row "W www.clgme.com" [ref=e128]:
+                  - cell "W www.clgme.com" [ref=e129]:
+                    - table [ref=e130]:
+                      - rowgroup [ref=e131]:
+                        - row "W www.clgme.com" [ref=e132]:
+                          - cell "W" [ref=e133]
+                          - cell "www.clgme.com" [ref=e134]:
+                            - link "www.clgme.com" [ref=e135] [cursor=pointer]:
+                              - /url: http://www.clgme.com
+                - row "A Mussafah – M42, Abu Dhabi, U.A.E P.O. Box – 3585" [ref=e136]:
+                  - cell "A Mussafah – M42, Abu Dhabi, U.A.E P.O. Box – 3585" [ref=e137]:
+                    - table [ref=e138]:
+                      - rowgroup [ref=e139]:
+                        - row "A Mussafah – M42, Abu Dhabi, U.A.E P.O. Box – 3585" [ref=e140]:
+                          - cell "A" [ref=e141]
+                          - cell "Mussafah – M42, Abu Dhabi, U.A.E P.O. Box – 3585" [ref=e142]:
+                            - text: Mussafah – M42, Abu Dhabi, U.A.E
+                            - text: P.O. Box – 3585
+                - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e143]:
+                  - cell "ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e144]:
+                    - table [ref=e145]:
+                      - rowgroup [ref=e146]:
+                        - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV" [ref=e147]:
+                          - cell "ISO 9001" [ref=e148]:
+                            - img "ISO 9001" [ref=e149]
+                          - cell "ISO 14001" [ref=e150]:
+                            - img "ISO 14001" [ref=e151]
+                          - cell "ISO 45001" [ref=e152]:
+                            - img "ISO 45001" [ref=e153]
+                          - cell "FCIA" [ref=e154]:
+                            - generic [ref=e155]: FCIA
+                          - cell "ICV" [ref=e156]:
+                            - generic [ref=e157]: ICV
+        - row "Proud of UAE" [ref=e158]:
+          - cell "Proud of UAE" [ref=e159]:
+            - img "Proud of UAE" [ref=e160]
+    - generic [ref=e161]:
+      - generic [ref=e162]: Minimal Prestige
+      - generic [ref=e163]: Premium
+      - generic [ref=e164]: Minimal
+      - generic [ref=e165]: Elegant

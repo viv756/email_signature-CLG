@@ -1,0 +1,91 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "CLG Logo" [ref=e4]
+    - generic [ref=e5]:
+      - heading "CLG Middle East Contracting L.L.C 3 Variations" [level=1] [ref=e6]:
+        - text: CLG Middle East Contracting L.L.C
+        - generic [ref=e7]: 3 Variations
+      - paragraph [ref=e8]: Select a tab · click inside the white box · Select All (Ctrl+A / ⌘A) · Copy · Paste into Gmail
+  - generic [ref=e10]:
+    - button "01 Executive Classic" [ref=e11] [cursor=pointer]
+    - button "02 Corporate Bold" [ref=e12] [cursor=pointer]
+    - button "03 Minimal Prestige" [ref=e13] [cursor=pointer]
+  - generic [ref=e15]:
+    - paragraph [ref=e16]:
+      - text: Click inside the white box, press
+      - strong [ref=e17]: Ctrl+A / ⌘A
+      - text: to select all, then
+      - strong [ref=e18]: Copy & Paste
+      - text: into Gmail → Settings → Signature
+    - table [ref=e20]:
+      - rowgroup [ref=e21]:
+        - row "CLG Middle East Ahmed Al Mansouri Project Director CLG MIDDLE EAST CONTRACTING L.L.C T +971 2 626 3789 M +971 56 544 2256 E info@clgme.com W www.clgme.com Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e22]:
+          - cell [ref=e23]
+          - cell [ref=e24]
+          - cell "CLG Middle East" [ref=e25]:
+            - img "CLG Middle East" [ref=e26]
+          - cell [ref=e27]
+          - cell "Ahmed Al Mansouri Project Director CLG MIDDLE EAST CONTRACTING L.L.C T +971 2 626 3789 M +971 56 544 2256 E info@clgme.com W www.clgme.com Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e29]:
+            - table [ref=e30]:
+              - rowgroup [ref=e31]:
+                - row "Ahmed Al Mansouri" [ref=e32]:
+                  - cell "Ahmed Al Mansouri" [ref=e33]
+                - row "Project Director" [ref=e34]:
+                  - cell "Project Director" [ref=e35]
+                - row "CLG MIDDLE EAST CONTRACTING L.L.C" [ref=e36]:
+                  - cell "CLG MIDDLE EAST CONTRACTING L.L.C" [ref=e37]
+                - row [ref=e38]:
+                  - cell [ref=e39]:
+                    - table [ref=e40]:
+                      - rowgroup [ref=e41]:
+                        - row [ref=e42]:
+                          - cell [ref=e43]
+                - row "T +971 2 626 3789 M +971 56 544 2256" [ref=e44]:
+                  - cell "T +971 2 626 3789 M +971 56 544 2256" [ref=e45]:
+                    - table [ref=e46]:
+                      - rowgroup [ref=e47]:
+                        - row "T +971 2 626 3789 M +971 56 544 2256" [ref=e48]:
+                          - cell "T +971 2 626 3789" [ref=e49]
+                          - cell "M +971 56 544 2256" [ref=e50]
+                - row [ref=e51]:
+                  - cell [ref=e52]
+                - row "E info@clgme.com W www.clgme.com" [ref=e53]:
+                  - cell "E info@clgme.com W www.clgme.com" [ref=e54]:
+                    - table [ref=e55]:
+                      - rowgroup [ref=e56]:
+                        - row "E info@clgme.com W www.clgme.com" [ref=e57]:
+                          - cell "E info@clgme.com" [ref=e58]:
+                            - text: E
+                            - link "info@clgme.com" [ref=e59] [cursor=pointer]:
+                              - /url: mailto:info@clgme.com
+                          - cell "W www.clgme.com" [ref=e60]:
+                            - text: W
+                            - link "www.clgme.com" [ref=e61] [cursor=pointer]:
+                              - /url: http://www.clgme.com
+                - row [ref=e62]:
+                  - cell [ref=e63]
+                - row "Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e64]:
+                  - cell "Mussafah – M42, Abu Dhabi, U.A.E · P.O. Box – 3585" [ref=e65]
+        - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified" [ref=e66]:
+          - cell "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified" [ref=e67]:
+            - table [ref=e68]:
+              - rowgroup [ref=e69]:
+                - row "ISO 9001 ISO 14001 ISO 45001 FCIA ICV Certified" [ref=e70]:
+                  - cell "ISO 9001" [ref=e71]:
+                    - img "ISO 9001" [ref=e72]
+                  - cell "ISO 14001" [ref=e73]:
+                    - img "ISO 14001" [ref=e74]
+                  - cell "ISO 45001" [ref=e75]:
+                    - img "ISO 45001" [ref=e76]
+                  - cell "FCIA" [ref=e77]:
+                    - generic [ref=e78]: FCIA
+                  - cell "ICV Certified" [ref=e79]:
+                    - generic [ref=e80]: ICV Certified
+        - row "Proud of UAE" [ref=e81]:
+          - cell "Proud of UAE" [ref=e82]:
+            - img "Proud of UAE" [ref=e83]
+    - generic [ref=e84]:
+      - generic [ref=e85]: Executive Classic
+      - generic [ref=e86]: Corporate
+      - generic [ref=e87]: Trusted
+      - generic [ref=e88]: Clean
